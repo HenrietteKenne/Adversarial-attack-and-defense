@@ -1,7 +1,5 @@
 # Adversarial Perturbation Elimination with GAN(APE-GAN)
 
-Reference paperfor defense (https://arxiv.org/pdf/1707.05474.pdf)
-
 ## MNISTdataset
 
 ### 1. Train CNN(Victim model) and Generate Adversarial Examples(FGSM)
